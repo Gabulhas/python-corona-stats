@@ -1,0 +1,5 @@
+# How to run
+Install pip packages: `pip install -r requirements.txt`
+
+Run: `python main.py`
+
